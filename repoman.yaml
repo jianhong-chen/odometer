@@ -1,7 +1,8 @@
 ---
 repository:
   status: active
-  team: Health
-  jira: jarvis
+  team: Wizard Hats
   live: yes
-  
+  jira: AHAB
+  jira_triaged: WHAT
+  slack: health-activity-help
